@@ -1,0 +1,13 @@
+{
+  "DepartmentId":"1",
+  "FirstName": "Rik",
+  "LastName": "Dev",
+  "Gender": "Male",
+  "DateOfBirth": "29-03-2000",
+  "Address": "dsfsd",
+  "Phone": "dsdd",
+  "Email": "drik.dev@gmail.com",
+  "Password": "12345",
+  "Roles": "ADMIN",
+  "Image": "88"
+}

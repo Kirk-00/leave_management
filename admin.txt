@@ -1,0 +1,8 @@
+email:admin@gmail.com
+pass:admin@1234
+
+apache@gmail.com
+pass:apache@2000
+
+loxton@gmail.com
+loxton123
